@@ -6,6 +6,8 @@ Notebook de Vision por Computadora con implementacion de **Task 3** usando Trans
 
 El notebook usa `torchvision.datasets.ImageFolder`, por lo que el dataset debe quedar asi:
 
+![alt text](image.png)
+
 ```text
 archive/
   Anthracnose/
